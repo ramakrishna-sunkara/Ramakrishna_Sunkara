@@ -29,6 +29,7 @@ I created one custome view for loading and display data
 
 ## Video
 
+https://github.com/ramakrishna-sunkara/Ramakrishna_Sunkara/blob/master/App_video_demo.mp4
 
 ## Author
 
