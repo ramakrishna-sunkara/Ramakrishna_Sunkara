@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ramakrishna_Sunkara</string>
+    <string name="login">Login</string>
+    <string name="network_error">No network connection.</string>
+    <string name="errorString">Something went wrong, Please try again.</string>
+    <string name="load_data">Load Data</string>
+    <string name="msg_word_count">List of Words with Count:</string>
+    <string name="msg_every_10th_char">Every 10th Character is:</string>
+    <string name="msg_10th_char">10th Character is:</string>
+</resources>
